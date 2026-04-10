@@ -96,6 +96,10 @@ The following do not count toward any wager:
 
 **Arbiters.** Three arbiters: one selected by Matthew Green, one by Filippo Valsorda, one jointly selected by both parties. Questions of interpretation and sufficiency of proof are resolved by majority vote.
 
+1. Sophie Schmieg, selected by Filippo Valsorda.
+2. _____________, selected by Matthew Green.
+3. _____________, selected jointly.
+
 **Evidence.** A claimed adverse event may be established by a public result that the arbiters accept, or by a challenge procedure approved by the arbiters.
 
 ## 7. Payment
