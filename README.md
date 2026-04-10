@@ -51,18 +51,19 @@ A covered construction is deemed broken if, by the deadline, a practical classic
 
 ## 3. Secondary wager: material downgrade
 
-The secondary wager captures a substantial, academically recognized downgrade short of a full practical break. Unlike the main wager, it is timeline-based: Filippo wins if ML-KEM-768 survives to the deadline without a material downgrade.
+The secondary wager captures a substantial, academically recognized downgrade short of a full practical break. Unlike the main wager, it is timeline-based.
 
-### 3a. ML-KEM-768 downgrade → Matt wins $1,000.
+### 3a. ML-KEM-768 falls below 128-bit security → Matt wins $1,000.
 
-ML-KEM-768 is deemed materially downgraded if, by the deadline, either:
+ML-KEM-768 is deemed materially downgraded if, by the deadline, either NIST states in substance that ML-KEM-768 no longer meets the 128-bit security level, or a majority of the arbiters concludes — based on peer-reviewed or clearly substantiated public cryptanalysis — that the academic consensus is that ML-KEM-768 no longer meets the 128-bit security level.
 
-- NIST states in substance that ML-KEM-768 no longer meets the 128-bit security level; or
-- a majority of the arbiters concludes — based on peer-reviewed or clearly substantiated public cryptanalysis — that the academic consensus is that ML-KEM-768 no longer meets the 128-bit security level.
+### 3b. ML-KEM-768 falls below 192-bit but stays at or above 128-bit security → draw.
 
-### 3b. No downgrade → Filippo wins $1,000.
+If, by the deadline, ML-KEM-768 is no longer considered to meet the 192-bit security level but still meets the 128-bit security level (by the same criteria as 3a), the secondary wager is a push and no payment is owed.
 
-If ML-KEM-768 is *not* deemed materially downgraded by the deadline, Filippo wins the secondary wager.
+### 3c. ML-KEM-768 stays at or above 192-bit security → Filippo wins $1,000.
+
+If ML-KEM-768 is *not* deemed to have fallen below the 192-bit security level by the deadline, Filippo wins the secondary wager.
 
 ## 4. Moral win: ML-KEM-512
 
