@@ -87,6 +87,8 @@ The following do not count toward any wager:
 - Generic recommendations to migrate to post-quantum or hybrid key establishment, absent a substantive security downgrade of ML-KEM-768 itself.
 - Political, procurement, or ecosystem preferences unconnected to substantive security concerns.
 - Any case in which the key could have credibly been compromised through algorithm-independent mechanisms.
+- Changes in overall security targets, such as NIST choosing to only recommend 256-bit primitives.
+- When calculating security levels, any attacks that require hardware that does not exist at that time, such as quantum algorithms before they are demonstrated on real hardware.
 
 ## 6. Arbiters and evidence
 
