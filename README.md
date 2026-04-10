@@ -1,6 +1,3 @@
-> [!NOTE]
-> This has not been finalized yet.
-
 # The Hybrids Long Bet
 
 *ML-KEM-768 vs. X25519*
@@ -98,7 +95,7 @@ The following do not count toward any wager:
 **Arbiters.** Three arbiters: one selected by Matthew Green, one by Filippo Valsorda, one jointly selected by both parties. Questions of interpretation and sufficiency of proof are resolved by majority vote.
 
 1. Sophie Schmieg, selected by Filippo Valsorda.
-2. _____________, selected by Matthew Green.
+2. Madars Virza, selected by Matthew Green.
 3. Thomas H. Ptacek, selected jointly.
 
 **Evidence.** A claimed adverse event may be established by a public result that the arbiters accept, or by a challenge procedure approved by the arbiters.
