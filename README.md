@@ -1,17 +1,19 @@
-# Long Bet Agreement
+# Long Bet
 
 *ML-KEM-768 vs. X25519*
 
-This agreement is between **Matthew Green** ("Lattice Cryptanalysis side") and **Filippo Valsorda** ("Quantum Computers side").
+This is a public wager between **Matthew Green** ("Lattice Cryptanalysis side") and **Filippo Valsorda** ("Quantum Computers side"). Stakes are settled by charitable donation (see Section 7).
 
-It is motivated by views about the security and deployment relevance of the X25519MLKEM768 hybrid handshake. Notwithstanding that motivation, this agreement is not a bet on any hybrid handshake, combiner, or protocol composition. The covered constructions are the separate underlying components defined in Section 1.
+This is a friendly honor-based wager, and not a legally-enforceable agreement.
+
+It is motivated by views about the security and deployment relevance of the X25519MLKEM768 hybrid handshake. Notwithstanding that motivation, this wager is not about any hybrid handshake, combiner, or protocol composition. The covered constructions are the separate underlying components defined in Section 1.
 
 **Deadline.** December 31, ______, 23:59:59 UTC.
 
 **Stakes.**
 
-- Main wager: USD $5,000.
-- Secondary wager: USD $1,000.
+- Main wager: USD $5,000 donation.
+- Secondary wager: USD $1,000 donation.
 - Moral win: Filippo Valsorda buys Matthew Green drinks if Section 4 is satisfied.
 
 ## 1. Definitions
@@ -46,35 +48,35 @@ A covered construction is deemed broken if, by the deadline, a practical classic
 
 - If only ML-KEM-768 is broken by the deadline, Matt wins.
 - If only X25519 is broken by the deadline, Filippo wins.
-- If both are broken, the party whose adverse event occurred first wins. If they cannot reasonably be ordered, the wager is a push and no payment is owed.
-- If neither is broken, the main wager is a push and no payment is owed.
+- If both are broken, the party whose adverse event occurred first wins. If they cannot reasonably be ordered, the wager is a push and no donation is made.
+- If neither is broken, the main wager is a push and no donation is made.
 
 ## 3. Secondary wager: material downgrade
 
 The secondary wager captures a substantial, academically recognized downgrade short of a full practical break. Unlike the main wager, it is timeline-based.
 
-### 3a. ML-KEM-768 falls below 128-bit security → Matt wins $1,000.
+### 3a. ML-KEM-768 falls below 128-bit security → Matt wins, Filippo donates $1,000.
 
 ML-KEM-768 is deemed materially downgraded if, by the deadline, either NIST states in substance that ML-KEM-768 no longer meets the 128-bit security level, or a majority of the arbiters concludes — based on peer-reviewed or clearly substantiated public cryptanalysis — that the academic consensus is that ML-KEM-768 no longer meets the 128-bit security level.
 
 ### 3b. ML-KEM-768 falls below 192-bit but stays at or above 128-bit security → draw.
 
-If, by the deadline, ML-KEM-768 is no longer considered to meet the 192-bit security level but still meets the 128-bit security level (by the same criteria as 3a), the secondary wager is a push and no payment is owed.
+If, by the deadline, ML-KEM-768 is no longer considered to meet the 192-bit security level but still meets the 128-bit security level (by the same criteria as 3a), the secondary wager is a push and no donation is made.
 
-### 3c. ML-KEM-768 stays at or above 192-bit security → Filippo wins $1,000.
+### 3c. ML-KEM-768 stays at or above 192-bit security → Filippo wins, Matt donates $1,000.
 
 If ML-KEM-768 is *not* deemed to have fallen below the 192-bit security level by the deadline, Filippo wins the secondary wager.
 
 ## 4. Moral win: ML-KEM-512
 
-Separate from the main and secondary wagers, Filippo Valsorda owes Matthew Green a reasonable round of drinks if, by the deadline, ML-KEM-512 is no longer considered secure for new deployments.
+Separate from the main and secondary wagers, Filippo Valsorda buys Matthew Green a reasonable round of drinks if, by the deadline, ML-KEM-512 is no longer considered secure for new deployments.
 
 ML-KEM-512 shall be treated as no longer secure if, by the deadline, either:
 
 - NIST states in substance that ML-KEM-512 no longer meets the 120-bit security level; or
 - a majority of the arbiters concludes — based on peer-reviewed or clearly substantiated public cryptanalysis — that the academic consensus is that ML-KEM-512 no longer meets the 120-bit security level.
 
-This is honorary only and creates no monetary obligation beyond buying drinks.
+This is honorary only and carries no monetary stakes beyond buying drinks.
 
 ## 5. Exclusions
 
@@ -96,10 +98,21 @@ The following do not count toward any wager:
 
 **Evidence.** A claimed adverse event may be established by a public result that the arbiters accept, or by a challenge procedure approved by the arbiters.
 
-## 7. Miscellaneous
+## 7. Payment
 
-This document may be signed in counterparts. The parties may amend this agreement only in a later writing signed by both parties. All dollar amounts are in U.S. dollars.
+All monetary wagers are settled by charitable donation. The losing party donates the amount to a U.S. 501(c)(3) organization chosen by the winning party at the time of payout.
+
+Provisional designations:
+
+- If Matt wins: Electronic Frontier Foundation (EFF).
+- If Filippo wins: Internet Archive.
+
+The winning party may substitute a different 501(c)(3) at the time of payout.
+
+## 8. Miscellaneous
+
+The parties may amend this wager by approving a PR. Adjudications and donations will be announced as edits. All dollar amounts are in U.S. dollars.
 
 ## Signatures
 
-[ Not signed yet ]
+TODO
