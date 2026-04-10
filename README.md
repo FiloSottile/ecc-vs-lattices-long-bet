@@ -71,8 +71,8 @@ Separate from the main and secondary wagers, Filippo Valsorda owes Matthew Green
 
 ML-KEM-512 shall be treated as no longer secure if, by the deadline, either:
 
-- NIST states in substance that ML-KEM-512 no longer meets the 128-bit security level; or
-- a majority of the arbiters concludes — based on peer-reviewed or clearly substantiated public cryptanalysis — that the academic consensus is that ML-KEM-512 no longer meets the 128-bit security level.
+- NIST states in substance that ML-KEM-512 no longer meets the 120-bit security level; or
+- a majority of the arbiters concludes — based on peer-reviewed or clearly substantiated public cryptanalysis — that the academic consensus is that ML-KEM-512 no longer meets the 120-bit security level.
 
 This is honorary only and creates no monetary obligation beyond buying drinks.
 
