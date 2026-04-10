@@ -9,7 +9,7 @@ This is a public wager between **Matthew Green** ("Lattice Cryptanalysis side") 
 
 It is motivated by views about the security and deployment relevance of the X25519MLKEM768 hybrid handshake. Notwithstanding that motivation, this wager is not about any hybrid handshake, combiner, or protocol composition. The covered constructions are the separate underlying components defined in Section 1.
 
-**Deadline.** December 31, ______, 23:59:59 UTC.
+**Deadline.** December 31, 2040, 23:59:59 UTC.
 
 **Stakes.**
 
