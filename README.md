@@ -99,7 +99,7 @@ The following do not count toward any wager:
 
 1. Sophie Schmieg, selected by Filippo Valsorda.
 2. _____________, selected by Matthew Green.
-3. _____________, selected jointly.
+3. Thomas H. Ptacek, selected jointly.
 
 **Evidence.** A claimed adverse event may be established by a public result that the arbiters accept, or by a challenge procedure approved by the arbiters.
 
