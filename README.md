@@ -1,10 +1,11 @@
+> [!NOTE]
+> This has not been finalized yet.
+
 # The Hybrids Long Bet
 
 *ML-KEM-768 vs. X25519*
 
 This is a public wager between **Matthew Green** ("Lattice Cryptanalysis side") and **Filippo Valsorda** ("Quantum Computers side"). Stakes are settled by charitable donation (see Section 7).
-
-This is a friendly honor-based wager, and not a legally-enforceable agreement.
 
 It is motivated by views about the security and deployment relevance of the X25519MLKEM768 hybrid handshake. Notwithstanding that motivation, this wager is not about any hybrid handshake, combiner, or protocol composition. The covered constructions are the separate underlying components defined in Section 1.
 
@@ -115,8 +116,8 @@ The winning party may substitute a different 501(c)(3) at the time of payout.
 
 ## 8. Miscellaneous
 
-The parties may amend this wager by approving a PR. Adjudications and donations will be announced as edits. All dollar amounts are in U.S. dollars.
+The parties may amend this wager by approving a PR. Adjudications and donations will be announced as edits.
 
-## Signatures
+All dollar amounts are in U.S. dollars.
 
-TODO
+This is a friendly honor-based wager, and not a legally-enforceable agreement.
