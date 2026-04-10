@@ -1,4 +1,4 @@
-# Long Bet
+# The Hybrids Long Bet
 
 *ML-KEM-768 vs. X25519*
 
