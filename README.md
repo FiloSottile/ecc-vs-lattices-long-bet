@@ -20,7 +20,7 @@ It is motivated by views about the security and deployment relevance of the X255
 
 Anyone can join the bet by choosing a side and stakes for the main and/or secondary wager.
 If the selected side loses, the back bettor donates the staked amount to the charity chosen by the winner.
-Back bettors don't select arbiters or charities.
+Back bettors don't select arbiters or charities, but can choose different dollar amounts.
 
 > [!TIP]
 > Do you have an _opinion_ and want to put your money where your mouth is?
