@@ -29,7 +29,7 @@ Back bettors don't select arbiters or charities, but can choose different dollar
 
 - David Adrian: Quantum Computers side / **$10,000** on main wager / **$2,000** on secondary wager
 
-- Sanketh Menda: Lattice Cryptanalysis side / **$1,000** on main wager / **$200** on secondary wager
+- sanketh: Lattice Cryptanalysis side / **$1,000** on main wager / **$200** on secondary wager
 
 ## 1. Definitions
 
