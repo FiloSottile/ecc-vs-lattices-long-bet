@@ -26,6 +26,8 @@ Back bettors don't select arbiters or charities, but can choose different dollar
 
 - sanketh: Lattice Cryptanalysis side / **$1,000** on main wager / **$200** on secondary wager
 
+- Joseph Lorenzo Hall: Quantum Computers side / **$1,000** on main wager / **$500** on secondary wager
+
 > [!TIP]
 > Do you have an _opinion_ and want to put your money where your mouth is?
 > Do you like raising money for charity through abstruse wagers?
