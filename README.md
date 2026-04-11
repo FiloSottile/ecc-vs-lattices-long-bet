@@ -27,6 +27,10 @@ Back bettors don't select arbiters or charities, but can choose different dollar
 > Do you like raising money for charity through abstruse wagers?
 > Submit a PR and add your name below!
 
+- David Adrian: Quantum Computers side / **$10,000** on main wager / **$2,000** on secondary wager
+
+- sanketh: Lattice Cryptanalysis side / **$1,000** on main wager / **$200** on secondary wager
+
 ## 1. Definitions
 
 **ML-KEM-768** means the ML-KEM-768 parameter set as standardized in FIPS 203, used with conforming key generation, encapsulation, and decapsulation on honestly generated inputs.
