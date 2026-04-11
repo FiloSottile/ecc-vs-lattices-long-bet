@@ -22,14 +22,14 @@ Anyone can join the bet by choosing a side and stakes for the main and/or second
 If the selected side loses, the back bettor donates the staked amount to the charity chosen by the winner.
 Back bettors don't select arbiters or charities, but can choose different dollar amounts.
 
-> [!TIP]
-> Do you have an _opinion_ and want to put your money where your mouth is?
-> Do you like raising money for charity through abstruse wagers?
-> Submit a PR and add your name below!
-
 - David Adrian: Quantum Computers side / **$10,000** on main wager / **$2,000** on secondary wager
 
 - sanketh: Lattice Cryptanalysis side / **$1,000** on main wager / **$200** on secondary wager
+
+> [!TIP]
+> Do you have an _opinion_ and want to put your money where your mouth is?
+> Do you like raising money for charity through abstruse wagers?
+> Submit a PR and add your name above!
 
 ## 1. Definitions
 
