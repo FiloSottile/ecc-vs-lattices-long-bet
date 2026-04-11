@@ -10,9 +10,20 @@ It is motivated by views about the security and deployment relevance of the X255
 
 **Stakes.**
 
-- Main wager: USD $5,000 donation.
-- Secondary wager: USD $1,000 donation.
-- Moral win: Filippo Valsorda buys Matthew Green drinks if Section 4 is satisfied.
+- Main wager: what breaks first, ML-KEM-768 or X25519? → **USD $5,000 donation.**
+- Secondary wager: will ML-KEM-768 weaken significantly? → **USD $1,000 donation.**
+- Moral win: Filippo Valsorda buys Matthew Green drinks if ML-KEM-512 weakens.
+
+**Back bets.**
+
+Anyone can join the bet by choosing a side and stakes for the main and/or secondary wager.
+If the selected side loses, the back bettor donates the staked amount to the charity chosen by the winner.
+Back bettors don't select arbiters or charities.
+
+> [!TIP]
+> Do you have an _opinion_ and want to put your money where your mouth is?
+> Do you like raising money for charity through abstruse wagers?
+> Submit a PR and add your name below!
 
 ## 1. Definitions
 
