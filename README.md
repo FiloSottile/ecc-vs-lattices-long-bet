@@ -24,6 +24,7 @@ Back bettors don't select arbiters or charities, but can choose different dollar
 
 - David Adrian: Quantum Computers side / **$10,000** on main wager / **$2,000** on secondary wager
 - Joseph Lorenzo Hall: Quantum Computers side / **$1,000** on main wager / **$500** on secondary wager
+- Helio Machado: Quantum Computers side / **$12,750** on main wager / **$950** on secondary wager
 
 - sanketh: Lattice Cryptanalysis side / **$1,000** on main wager / **$200** on secondary wager
 - Saleem Rashid: Lattice Cryptanalysis side / **$2,000** on main wager / **$200** on secondary wager
