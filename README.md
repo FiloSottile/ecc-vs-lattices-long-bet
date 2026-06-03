@@ -16,18 +16,24 @@ It is motivated by views about the security and deployment relevance of the X255
 - Secondary wager: will ML-KEM-768 weaken significantly? → **USD $1,000 donation.**
 - Moral win: Filippo Valsorda buys Matthew Green drinks if ML-KEM-512 weakens.
 
-**Back bets.**
+## Back bets 
 
 Anyone can join the bet by choosing a side and stakes for the main and/or secondary wager.
 If the selected side loses, the back bettor donates the staked amount to the charity chosen by the winner.
 Back bettors don't select arbiters or charities, but can choose different dollar amounts.
 
-- David Adrian: Quantum Computers side / **$10,000** on main wager / **$2,000** on secondary wager
-- Joseph Lorenzo Hall: Quantum Computers side / **$1,000** on main wager / **$500** on secondary wager
-- Helio Machado: Quantum Computers side / **$12,750** on main wager / **$950** on secondary wager
+### Quantum computers side
+X25519 breaks before ML-KEM-768 (main wager) and ML-KEM-768 will not weaken significantly (secondary wager).
 
-- sanketh: Lattice Cryptanalysis side / **$1,000** on main wager / **$200** on secondary wager
-- Saleem Rashid: Lattice Cryptanalysis side / **$2,000** on main wager / **$200** on secondary wager
+- David Adrian: **$10,000** on main wager / **$2,000** on secondary wager
+- Joseph Lorenzo Hall: **$1,000** on main wager / **$500** on secondary wager
+- Helio Machado: **$12,750** on main wager / **$950** on secondary wager
+
+### Lattice cryptanalysis side
+X25519 survives ML-KEM-768 (main wager) and ML-KEM-768 weakens significantly (secondary wager)
+
+- sanketh: **$1,000** on main wager / **$200** on secondary wager
+- Saleem Rashid: **$2,000** on main wager / **$200** on secondary wager
 
 > [!TIP]
 > Do you have an _opinion_ and want to put your money where your mouth is?
